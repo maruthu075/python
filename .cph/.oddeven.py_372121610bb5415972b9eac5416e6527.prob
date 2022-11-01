@@ -1,0 +1,1 @@
+{"name":"Local: oddeven","url":"/home/maruthu/Documents/Maruthu/oddeven.py","tests":[{"id":1667326356572,"input":"8","output":"even"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/maruthu/Documents/Maruthu/oddeven.py","group":"local","local":true}
